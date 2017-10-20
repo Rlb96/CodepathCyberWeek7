@@ -44,7 +44,7 @@ Time spent: 7 hours spent in total
 			http://wp-url/wp-content/themes/twentyfifteen/genericons/example.html# an 
 			attacker can hijack a privileged user's session, change the password, 
 			and gain control of the system.
-- [x] GIF Walkthrough:<img src='https://imgur.com/zIcJny1' title='GIF Walkthrough' width='' alt='GIF Walkthrough' /> 
+- [x] GIF Walkthrough:<a href="https://imgur.com/zIcJny1"><img src="https://i.imgur.com/zIcJny1.gif" title="source: imgur.com" /></a>
 - [x] Steps to recreate:
 			Navigate to http://wpdistillery.dev/wp-content/themes/twentyfifteen/genericons/example.html#
 			Append a malicious image tag to the url: http://wpdistillery.dev/wp-content/themes/twentyfifteen/genericons/example.html#<img src=1 onerror=alert(1)>
