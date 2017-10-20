@@ -11,7 +11,7 @@ Time spent: 7 hours spent in total
 - Vulnerability types: XSS Injection
 - Tested in version: 4.1.1
 - Fixed in version: 4.2.13
-- [x] GIF Walkthrough:<img src='https://imgur.com/XAQ1OTz' title='GIF Walkthrough' width='' alt='GIF Walkthrough' /> 
+- [x] GIF Walkthrough:<a href="https://imgur.com/XAQ1OTz"><img src="https://i.imgur.com/XAQ1OTz.gif" title="source: imgur.com" /></a>
 - [x] Steps to recreate: 
     - Add three or more media files to your wordpress library, insert "Let it go <noscript/><script>alert(document.cookie);</script>" into the description of the media file.
     - Create a new post and add the media file to the post as an audio playlist.
@@ -25,7 +25,7 @@ Time spent: 7 hours spent in total
 - Vulnerability types: XSS
 - Tested in version: 4.2
 - Fixed in version: 4.2
-- [x] GIF Walkthrough:<img src='https://imgur.com/Ba2rmj2' title='GIF Walkthrough' width='' alt='GIF Walkthrough' /> 
+- [x] GIF Walkthrough:<a href="https://imgur.com/Ba2rmj2"><img src="https://i.imgur.com/Ba2rmj2.gif" title="source: imgur.com" /></a>
 - [x] Steps to recreate: Go to the comments section of the page. 
 	 1) Log in as Admin
 	 2) Enter in <script>while(1){alert(document.cookie);}</script> in the comments box.  
