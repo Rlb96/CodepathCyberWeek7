@@ -54,9 +54,9 @@ Time spent: 7 hours spent in total
 
 ## Assets
 3 audio files made using quicktime audio recorder:
-	-SampleAudio_0.5mb.mp3
-	-SampleAudio_0.5mb1.mp3
-	-SampleAudio_0.5mb2.mp3
+	- [x] SampleAudio_0.5mb.mp3
+	- [x] SampleAudio_0.5mb1.mp3
+	- [x] SampleAudio_0.5mb2.mp3
 - GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Resources
