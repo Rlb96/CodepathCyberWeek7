@@ -53,7 +53,10 @@ Time spent: 7 hours spent in total
 			https://github.com/Automattic/Genericons/commit/798ac98579dd72dfdb11bdee3e7bebf01cffb1f7
 
 ## Assets
-3 audio files made using quicktime audio recorder
+3 audio files made using quicktime audio recorder:
+	SampleAudio_0.5mb.mp3
+	SampleAudio_0.5mb1.mp3
+	SampleAudio_0.5mb2.mp3
 - GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Resources
